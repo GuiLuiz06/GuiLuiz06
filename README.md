@@ -17,3 +17,6 @@
 </div><br/>
 
 Apaixonado por tecnologia, sempre buscando aprimorar minhas habilidades na área da programação, atualmente estou estudando Front-End.
+
+# ![snake gif](https://github.com/GuiLuiz06/your-user-name/blob/output/github-contribution-grid-snake.gif)
+
