@@ -15,6 +15,7 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS-264DE4?&style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="css3" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+     <img align="center" alt="react" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </div><br/>
 
 Apaixonado por tecnologia, sempre buscando aprimorar minhas habilidades na área da programação, atualmente estou estudando Front-End.
