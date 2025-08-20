@@ -1,4 +1,5 @@
 # Olá, Eu sou o Guilherme Luiz 👨🏼‍💻
+<h3>Estudante de Análise e Desenvolvimento de Sistemas</h3>
 
 ## 🌐 Conexões
 
@@ -6,20 +7,21 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Guiilherme-Luiz)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gui.luiz6)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiLuiz06&show_icons=false&theme=radical)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GuiLuiz06&theme=dracula&hide_border=false" alt="GitHub Streak Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GuiLuiz06&theme=dark&show_icons=true" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GuiLuiz06&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
 
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS-264DE4?&style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="css3" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-     <img align="center" alt="react" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    
+     <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="Html" />
+     <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="Css" />
+     <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript" /> 
+     <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React"/>
+     <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" />
+     <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git"/>
 </div><br/>
 
-Apaixonado por tecnologia, sempre buscando aprimorar minhas habilidades na área da programação, atualmente estou estudando Front-End.
+Apaixonado por tecnologia, sempre buscando aprimorar minhas habilidades na área da programação.
 
 
 
