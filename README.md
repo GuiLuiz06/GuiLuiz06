@@ -1,4 +1,4 @@
-# Olá, Eu sou o Guilherme Luiz 👨🏼‍💻
+# Olá, Eu sou o Guilherme Luiz! 👨🏼‍💻
 <h3>Estudante de Análise e Desenvolvimento de Sistemas</h3>
 
 ## 🌐 Conexões
