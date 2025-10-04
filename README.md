@@ -8,7 +8,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuiLuiz06&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
 </div>
 
-<div align="center" style="display: inline_block"><br/>
+
+<div align="center" style="display: inline_block">
+     <h2 align="center">Minhas Stacks 🚀</h2>
      <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="Html" />
      <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="Css" />
      <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript" /> 
