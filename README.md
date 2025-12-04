@@ -2,9 +2,8 @@
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas</h3>
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Guiilherme-Luiz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://wwww.linkedin.com/in/Guiilherme-Luiz)
 
-<img src="https://github-readme-stats.vercel.app/api?username=GuiLuiz06&theme=dark&show_icons=true" alt="GitHub Stats"/><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuiLuiz06&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
 </div>
 
