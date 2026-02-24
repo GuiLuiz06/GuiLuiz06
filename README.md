@@ -1,13 +1,14 @@
 <h1 align="center"> Olá, Eu sou o Guilherme Luiz! 👨‍💻</h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas</h3>
-<div align="center"><br>
+<div align="center">
      
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://wwww.linkedin.com/in/Guiilherme-Luiz)
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GuiLuiz06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</p>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GuiLuiz06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" style="margin-right: 50px;"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuiLuiz06&theme=tokyonight" height="180" style="margin-left: 30px;"/>
+</div>
 
 <div align="center" style="display: inline_block">
      <h2 align="center">Minhas Stacks 🚀</h2>
