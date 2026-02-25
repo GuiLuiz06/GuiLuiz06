@@ -11,7 +11,7 @@
 </div>
 
 <div align="center" style="display: inline_block">
-     <h2 align="center">Stacks que utilizo 🚀</h2>
+     <h2 align="center">Stacks 🚀</h2>
      <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="Html" />
      <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="Css" />
      <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript" /> 
