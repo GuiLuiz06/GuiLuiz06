@@ -7,6 +7,8 @@
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuiLuiz06&theme=tokyonight" height="180" style="margin-left: 30px;"/>
+     <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuiLuiz06&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center" style="display: inline_block">
@@ -21,6 +23,7 @@
      <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git"/>
      <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" />
      <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" />
+     <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Springboot"/>
      <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="Mysql"/>
      <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="Postgresql" />
      <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" />
