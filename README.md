@@ -6,7 +6,6 @@
 </div>
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GuiLuiz06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" style="margin-right: 50px;"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuiLuiz06&theme=tokyonight" height="180" style="margin-left: 30px;"/>
 </div>
 
